@@ -31,6 +31,9 @@ out/
 # Coverage
 coverage/
 *.lcov
+# Meshes
+*.hdf
+*.unv
 
 # Misc
 *.tgz
